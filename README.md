@@ -1,4 +1,4 @@
-[![Run App Sonne, Kyle](https://github.com/ksonne2/GithubActions/actions/workflows/run-app.yml/badge.svg)](https://github.com/ksonne2/GithubActions/actions/workflows/run-app.yml)
+[![Run App Sonne, Kyle](https://github.com/ksonne2/GithubActions/actions/workflows/run-app.yaml/badge.svg)](https://github.com/ksonne2/GithubActions/actions/workflows/run-app.yaml)
 
 # Do not submit a pull request to `kgerot/GithubActions` or `dteske/TraviCI`. Not following this instruction can ruin the lab for others, so pay attention.
 
