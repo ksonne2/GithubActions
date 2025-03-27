@@ -12,8 +12,6 @@ public class Addition
         Assert.AreEqual(78125, Program.Power("5", "7"));
 		Assert.AreEqual(15, Program.Multiply("3", "5"));
         Assert.AreEqual(12, Program.Add("5", "7"));
-        Assert.AreEqual(11, Program.Add("5", "7"));
-
     }
 
 	[TestMethod]
